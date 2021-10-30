@@ -1,5 +1,3 @@
-@@ -1 +1,32 @@
-# SQL-INJECTION-ATTACK
 # SQL-INJECTION-ATTACK
 TASK-1
 mysql -u root -pseedubuntu
